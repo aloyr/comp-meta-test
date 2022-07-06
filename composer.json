@@ -1,5 +1,6 @@
 {
     "name": "aloyr/comp-meta-test",
+    "version": "0.0.1",
     "type": "metapackage",
     "extra": {
       "drupal-scaffold": {
