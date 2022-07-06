@@ -33,7 +33,7 @@
           "web/themes/custom/{$name}": [
               "type:drupal-custom-theme"
           ]
-      },
+      }
     },
     "config": {
         "sort-packages": true,
