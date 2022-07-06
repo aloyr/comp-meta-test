@@ -1,0 +1,14 @@
+{
+    "name": "aloyr/comp-meta-test",
+    "type": "metapackage",
+    "require-dev": {
+        "composer/installers": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Peter Carrero",
+            "email": "peter.carrero@gmail.com"
+        }
+    ],
+    "require": {}
+}
